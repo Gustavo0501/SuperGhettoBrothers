@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=TiroInimigo
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Fire\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=velocidadeTiro
+comment1.target=TiroInimigo(int)
+comment1.text=\r\n\ Construtor\ da\ classe\ Fire.\r\n\ Inicializa\ a\ velocidade\ do\ proj\u00E9til\ e\ define\ a\ imagem\ com\ base\ no\ tipo\ de\ proj\u00E9til.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ M\u00E9todo\ "act"\ do\ proj\u00E9til.\r\n\ Verifica\ colis\u00F5es\ com\ outros\ objetos\ e\ move\ o\ proj\u00E9til.\r\n
+numComments=3

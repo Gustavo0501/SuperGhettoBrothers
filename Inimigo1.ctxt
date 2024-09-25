@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Inimigo1
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Inimigo\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=vidas\ tempoRecargaTiro\ nomeImagem
+comment1.target=Inimigo1(int,\ int,\ java.lang.String)
+comment1.text=\r\n\ Construtor\ da\ classe\ Inimigo.\r\n\ Inicializa\ o\ n\u00FAmero\ de\ vidas,\ define\ o\ inimigo\ como\ vivo\ e\ configura\ o\ tempo\ de\ recarga\ de\ tiro.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ M\u00E9todo\ "act"\ do\ inimigo.\r\n\ Chama\ o\ m\u00E9todo\ para\ realizar\ disparos\ de\ proj\u00E9teis\ e\ atualiza\ o\ tempo\ desde\ o\ \u00FAltimo\ disparo.\r\n
+numComments=3

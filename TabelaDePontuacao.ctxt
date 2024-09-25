@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=TabelaDePontuacao
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ TabelaDePontuacao\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=background
+comment1.target=TabelaDePontuacao(Background)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ TabelaDePontuacao.\r\n\ \r\n
+comment2.params=
+comment2.target=void\ inicializar()
+comment3.params=
+comment3.target=void\ mostrarTabela()
+comment4.params=
+comment4.target=void\ act()
+numComments=5
